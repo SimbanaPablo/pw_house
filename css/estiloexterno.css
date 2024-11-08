@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    background: yellowgreen;
+    font-size: 35px;
+    ;
+}
+
+h2 {
+    color: black;
+    background: yellow;
+}
+
+p {
+    font-family: cursive;
+    background: brown;
+    color: black;
+}
+
+button {
+    color: white;
+    background: black;
+}
