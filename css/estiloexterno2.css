@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    background: teal;
+    font-size: 38px;
+    ;
+}
+
+h2 {
+    color: black;
+    background: teal;
+    font-size: 35px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: grey;
+    font-size: 25px;
+    color: black;
+}
+
+button {
+    color: white;
+    background: black;
+    font-size: 20px;
+}
+footer{
+    color:yellow;
+    background: black;
+    font-siz
